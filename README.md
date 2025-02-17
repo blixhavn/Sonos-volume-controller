@@ -4,8 +4,10 @@ This is the code for a standalone Sonos volume controller. It utilizes a [rotary
 
 The only configuration needed is found as definitions on the top of the .ino file, and are as follows:
 
+```
 ROOM_NAME: Name of the Sonos room you want to control
 SSID: Wifi network name
 PASSWORD: Wifi password
+```
 
 Feel free to paste this code into any GPT for help with debugging and implementation.
